@@ -31,7 +31,7 @@ const Hero = () => {
           transition={{ duration: 0.8, delay: 0.2 }}
         >
           <div className="image-overlay"></div>
-          <img src="/src/assets/hero.png" alt="Doğal Tavuk Çiftliği" />
+          <img src="/assets/hero.png" alt="Doğal Tavuk Çiftliği" />
         </motion.div>
       </div>
 
